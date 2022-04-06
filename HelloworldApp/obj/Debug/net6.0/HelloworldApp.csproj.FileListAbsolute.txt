@@ -1,0 +1,15 @@
+/Users/zhouwei/Desktop/HelloworldApp/bin/Debug/net6.0/HelloworldApp
+/Users/zhouwei/Desktop/HelloworldApp/bin/Debug/net6.0/HelloworldApp.deps.json
+/Users/zhouwei/Desktop/HelloworldApp/bin/Debug/net6.0/HelloworldApp.runtimeconfig.json
+/Users/zhouwei/Desktop/HelloworldApp/bin/Debug/net6.0/HelloworldApp.dll
+/Users/zhouwei/Desktop/HelloworldApp/bin/Debug/net6.0/HelloworldApp.pdb
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.csproj.AssemblyReference.cache
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.AssemblyInfoInputs.cache
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.AssemblyInfo.cs
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.csproj.CoreCompileInputs.cache
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.dll
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/refint/HelloworldApp.dll
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.pdb
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/HelloworldApp.genruntimeconfig.cache
+/Users/zhouwei/Desktop/HelloworldApp/obj/Debug/net6.0/ref/HelloworldApp.dll
